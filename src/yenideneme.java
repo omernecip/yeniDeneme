@@ -4,6 +4,7 @@ public class yenideneme {
         System.out.println("ediyorum");
 
         System.out.println("restine rest");
+        System.out.println("restini gördüm");
     }
 
 
